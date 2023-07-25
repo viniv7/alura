@@ -46,7 +46,7 @@
     font-weight: 700;
 }
 
-.list-menu__limk {
+.list-menu__link {
     background: var(--azul-degrade);
     -webkit-backgorund-clip: text;
     -webkit-text-fill-color: transparent;
